@@ -38,8 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](light and sound memory.gif)
+<img src='light and sound memory.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Reflection Questions
