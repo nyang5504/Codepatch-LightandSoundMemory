@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-<img src='light and sound memory.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![x](https://github.com/nyang5504/Codepatch-LightandSoundMemory/blob/main/light%20and%20sound%20memory.gif)
+![x](https://github.com/nyang5504/Codepatch-LightandSoundMemory/blob/main/light%20and%20sound%20memory%20stop.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
